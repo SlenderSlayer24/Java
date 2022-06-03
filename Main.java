@@ -5,9 +5,11 @@ public class Main {
     public static void main(String[] args) {
       board b = new board();
       change c = new change();
+      paint p = new paint();
       ArrayList<Integer> list = b.start();
       Integer sum1;
       Integer sum2;
+      p.board(list);
       do {
         b.display();
         c.move_peices(list);

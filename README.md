@@ -1,21 +1,23 @@
 # Overview
 
-This is the basis of a Mancala game using Java. I like the game mancala and wanted to just get started on the basis of the game. Just getting some of the basic rules down.
+This is a work in progress Mancala game. Meant as just a little side project to bring the traditional African board
+game to life in the game world. So far the back end works but I've gotten stuck on the front end.
 
-[Software Demo Video](http://youtu.be/XsrrfAeuom4)
+[Software Demo Video](http://youtu.be/HwkBsp97U24)
 
 # Development Environment
 
-I used Virtual studio code as the main software creation program and the languge is entirly Java. I also used the Array List and Scanner utlities to help aid my program and make it work more like the game.
+I used Java and programmed it all in Virtual Studio Code. Using some modules for Java like JFrame and Graphics.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [W3Schools Java Array List Tutorial](https://www.w3schools.com/java/java_arraylist.asp)
-* [W3Schools Java Scanner Tutorial](https://www.w3schools.com/java/java_user_input.aspe)
+* [Java point](https://www.javatpoint.com/java-tutorial)
+* [Stackoverflow](https://stackoverflow.com/)
 
 # Future Work
 
-* I would like to add separate turns as well as incorperate the rules for taking turns multiple times
-* Better display of moving peices.
-* Just a general graphic out put that will help players better see the game.
+{Make a list of things that you need to fix, improve, and add in the future.}
+* I need to figure out what is keeping the peices from displaying.
+* I need to add a turn system
+* Button imputs for the diffrent slots.
